@@ -1,0 +1,6 @@
+{
+  "name": "SparkLab: Student Creative Odyssey",
+  "description": "An arcade puzzle learning adventure where students explore creative science, logic, and arts across progressive levels, earning Spark Coins to customize inventions and gift coins to classmates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
